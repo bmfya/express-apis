@@ -1,0 +1,16 @@
+{
+  "name": "express-apis",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["utils","express"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xsxe/express-apis"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
